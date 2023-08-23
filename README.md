@@ -1,4 +1,9 @@
-### Hi there 👋
+### olá👋 sejá bem vindo ao meu perfil.
+
+Meu nome é Gabriel mas podem me chamar de Kappa, atualmente estou estudando front-and, mas tenho interece no back-and tambem, pretendo me especializar no front-and e desining.
+se você tiver qual quer duvida, precisar de ajuda em um projeto ou tiver algo para falar é só me contadar, minha caixa de mensagens está sempre aberta, meu email é bielkio8@gmail.com.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KapaaD)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **KapaaD/KapaaD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
